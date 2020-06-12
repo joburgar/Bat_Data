@@ -9,7 +9,7 @@ MYVO - Myotis volans; Long-legged Myotis
 
 Filename:
 Unique ID for each bat call
-# recorded using an Anabat (Titley Scientific; https://www.titley-scientific.com/) ultrasonic bat detector
+recorded using an Anabat (Titley Scientific; https://www.titley-scientific.com/) ultrasonic bat detector
 
 Echolocation Call Paramters:
 Time_Btw_Calls - Time between calls (milliseconds)
